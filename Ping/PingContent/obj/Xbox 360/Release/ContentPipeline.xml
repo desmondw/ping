@@ -1,0 +1,488 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>gfx\ball.png</Source>
+      <Name>gfx\ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\gfx\ball.xnb</Output>
+      <Time>2011-06-28T21:13:45.5970354-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\bg\GameBG.png</Source>
+      <Name>gfx\bg\GameBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\gfx\bg\GameBG.xnb</Output>
+      <Time>2011-06-23T20:46:19.5317672-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\bg\TitleBG.png</Source>
+      <Name>gfx\bg\TitleBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\gfx\bg\TitleBG.xnb</Output>
+      <Time>2011-06-28T03:12:40.1864528-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\bg\MainMenuBG.png</Source>
+      <Name>gfx\bg\MainMenuBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\gfx\bg\MainMenuBG.xnb</Output>
+      <Time>2011-06-26T20:15:16.604984-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Starjedi.spritefont</Source>
+      <Name>Starjedi</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\Starjedi.xnb</Output>
+      <Time>2011-06-23T16:48:27.7905942-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\bg\Game_GameAreaBG.png</Source>
+      <Name>gfx\bg\Game_GameAreaBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\gfx\bg\Game_GameAreaBG.xnb</Output>
+      <Time>2011-06-28T22:49:24.8154611-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\paddleBottom.png</Source>
+      <Name>gfx\paddleBottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\gfx\paddleBottom.xnb</Output>
+      <Time>2011-06-28T22:32:21.9498677-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\paddleLeft.png</Source>
+      <Name>gfx\paddleLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\gfx\paddleLeft.xnb</Output>
+      <Time>2011-06-28T22:32:33.8411035-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\paddleRight.png</Source>
+      <Name>gfx\paddleRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\gfx\paddleRight.xnb</Output>
+      <Time>2011-06-28T22:33:00.5989621-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\paddleTop.png</Source>
+      <Name>gfx\paddleTop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\gfx\paddleTop.xnb</Output>
+      <Time>2011-06-28T22:32:47.9570727-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\test.png</Source>
+      <Name>gfx\test</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\gfx\test.xnb</Output>
+      <Time>2011-06-28T21:48:43.0492753-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\paused.png</Source>
+      <Name>gfx\paused</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\gfx\paused.xnb</Output>
+      <Time>2011-07-07T05:00:53.293929-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\normal\BallBallCollision.wav</Source>
+      <Name>sfx\normal\BallBallCollision</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\normal\BallBallCollision.xnb</Output>
+      <Time>2011-06-29T20:47:52.3923081-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\normal\BallPaddleCollision.wav</Source>
+      <Name>sfx\normal\BallPaddleCollision</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\normal\BallPaddleCollision.xnb</Output>
+      <Time>2011-06-23T16:42:31.3379257-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\normal\BallSpawn.wav</Source>
+      <Name>sfx\normal\BallSpawn</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\normal\BallSpawn.xnb</Output>
+      <Time>2011-06-23T16:42:31.3389258-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\normal\BallWallCollision.wav</Source>
+      <Name>sfx\normal\BallWallCollision</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\normal\BallWallCollision.xnb</Output>
+      <Time>2011-06-23T16:42:31.3399259-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\normal\MenuBack.wav</Source>
+      <Name>sfx\normal\MenuBack</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\normal\MenuBack.xnb</Output>
+      <Time>2011-06-23T16:42:31.3409259-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\normal\MenuMove.wav</Source>
+      <Name>sfx\normal\MenuMove</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\normal\MenuMove.xnb</Output>
+      <Time>2011-06-23T16:42:31.3549267-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\normal\MenuSelect.wav</Source>
+      <Name>sfx\normal\MenuSelect</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\normal\MenuSelect.xnb</Output>
+      <Time>2011-06-23T16:42:31.3559268-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballBallCollision\male_bam.wav</Source>
+      <Name>sfx\silly\male\ballBallCollision\male_bam</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballBallCollision\male_bam.xnb</Output>
+      <Time>2011-07-07T23:08:07.1974453-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballBallCollision\male_move.wav</Source>
+      <Name>sfx\silly\male\ballBallCollision\male_move</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballBallCollision\male_move.xnb</Output>
+      <Time>2011-07-07T23:08:07.1454423-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballBallCollision\male_nohomo.wav</Source>
+      <Name>sfx\silly\male\ballBallCollision\male_nohomo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballBallCollision\male_nohomo.xnb</Output>
+      <Time>2011-07-07T23:08:07.1714438-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballBallCollision\male_sup.wav</Source>
+      <Name>sfx\silly\male\ballBallCollision\male_sup</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballBallCollision\male_sup.xnb</Output>
+      <Time>2011-07-07T23:08:07.2244468-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballBallCollision\male_watchit.wav</Source>
+      <Name>sfx\silly\male\ballBallCollision\male_watchit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballBallCollision\male_watchit.xnb</Output>
+      <Time>2011-07-07T23:08:07.1174407-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballPaddleCollision\male_beep.wav</Source>
+      <Name>sfx\silly\male\ballPaddleCollision\male_beep</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballPaddleCollision\male_beep.xnb</Output>
+      <Time>2011-07-07T23:08:07.0404363-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballPaddleCollision\male_boop.wav</Source>
+      <Name>sfx\silly\male\ballPaddleCollision\male_boop</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballPaddleCollision\male_boop.xnb</Output>
+      <Time>2011-07-07T23:08:07.0644377-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballPaddleCollision\male_hater.wav</Source>
+      <Name>sfx\silly\male\ballPaddleCollision\male_hater</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballPaddleCollision\male_hater.xnb</Output>
+      <Time>2011-07-07T23:08:07.0164349-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballPaddleCollision\male_jerk.wav</Source>
+      <Name>sfx\silly\male\ballPaddleCollision\male_jerk</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballPaddleCollision\male_jerk.xnb</Output>
+      <Time>2011-07-07T23:08:06.9934336-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballPaddleCollision\male_ow1.wav</Source>
+      <Name>sfx\silly\male\ballPaddleCollision\male_ow1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballPaddleCollision\male_ow1.xnb</Output>
+      <Time>2011-07-07T23:08:06.877427-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballPaddleCollision\male_ow2.wav</Source>
+      <Name>sfx\silly\male\ballPaddleCollision\male_ow2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballPaddleCollision\male_ow2.xnb</Output>
+      <Time>2011-07-07T23:08:06.9024284-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballPaddleCollision\male_ping.wav</Source>
+      <Name>sfx\silly\male\ballPaddleCollision\male_ping</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballPaddleCollision\male_ping.xnb</Output>
+      <Time>2011-07-07T23:08:07.088439-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballPaddleCollision\male_sadist.wav</Source>
+      <Name>sfx\silly\male\ballPaddleCollision\male_sadist</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballPaddleCollision\male_sadist.xnb</Output>
+      <Time>2011-07-07T23:08:06.9694322-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballPaddleCollision\male_stopit.wav</Source>
+      <Name>sfx\silly\male\ballPaddleCollision\male_stopit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballPaddleCollision\male_stopit.xnb</Output>
+      <Time>2011-07-07T23:08:06.9444308-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballSpawn\male_amiaball.wav</Source>
+      <Name>sfx\silly\male\ballSpawn\male_amiaball</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballSpawn\male_amiaball.xnb</Output>
+      <Time>2011-07-07T23:08:07.4924621-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballSpawn\male_balls.wav</Source>
+      <Name>sfx\silly\male\ballSpawn\male_balls</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballSpawn\male_balls.xnb</Output>
+      <Time>2011-07-07T23:08:07.5524656-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballSpawn\male_bigballs.wav</Source>
+      <Name>sfx\silly\male\ballSpawn\male_bigballs</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballSpawn\male_bigballs.xnb</Output>
+      <Time>2011-07-07T23:08:07.5834673-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballSpawn\male_boo.wav</Source>
+      <Name>sfx\silly\male\ballSpawn\male_boo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballSpawn\male_boo.xnb</Output>
+      <Time>2011-07-07T23:08:07.4304586-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballSpawn\male_hereicome.wav</Source>
+      <Name>sfx\silly\male\ballSpawn\male_hereicome</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballSpawn\male_hereicome.xnb</Output>
+      <Time>2011-07-07T23:08:07.5214638-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballSpawn\male_incomming.wav</Source>
+      <Name>sfx\silly\male\ballSpawn\male_incomming</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballSpawn\male_incomming.xnb</Output>
+      <Time>2011-07-07T23:08:07.6434708-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballSpawn\male_karma.wav</Source>
+      <Name>sfx\silly\male\ballSpawn\male_karma</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballSpawn\male_karma.xnb</Output>
+      <Time>2011-07-07T23:08:07.6174693-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballSpawn\male_thehell.wav</Source>
+      <Name>sfx\silly\male\ballSpawn\male_thehell</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballSpawn\male_thehell.xnb</Output>
+      <Time>2011-07-07T23:08:07.4624604-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballWallCollision\male_brokenarrow.wav</Source>
+      <Name>sfx\silly\male\ballWallCollision\male_brokenarrow</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballWallCollision\male_brokenarrow.xnb</Output>
+      <Time>2011-07-07T23:08:07.4004569-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballWallCollision\male_finally.wav</Source>
+      <Name>sfx\silly\male\ballWallCollision\male_finally</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballWallCollision\male_finally.xnb</Output>
+      <Time>2011-07-07T23:08:07.3184522-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballWallCollision\male_later.wav</Source>
+      <Name>sfx\silly\male\ballWallCollision\male_later</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballWallCollision\male_later.xnb</Output>
+      <Time>2011-07-07T23:08:07.3704552-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballWallCollision\male_loser.wav</Source>
+      <Name>sfx\silly\male\ballWallCollision\male_loser</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballWallCollision\male_loser.xnb</Output>
+      <Time>2011-07-07T23:08:07.2914506-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballWallCollision\male_outtie.wav</Source>
+      <Name>sfx\silly\male\ballWallCollision\male_outtie</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballWallCollision\male_outtie.xnb</Output>
+      <Time>2011-07-07T23:08:07.3434536-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\silly\male\ballWallCollision\male_yousuck.wav</Source>
+      <Name>sfx\silly\male\ballWallCollision\male_yousuck</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\sfx\silly\male\ballWallCollision\male_yousuck.xnb</Output>
+      <Time>2011-07-07T23:08:07.2494482-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Segoe UI Mono.spritefont</Source>
+      <Name>Segoe UI Mono</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\Segoe UI Mono.xnb</Output>
+      <Time>2011-06-27T06:47:25.7276663-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mus\CyberAdvance.mp3</Source>
+      <Name>mus\CyberAdvance</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\mus\CyberAdvance.xnb</Output>
+      <Extra>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\mus\CyberAdvance.wma</Extra>
+      <Time>2011-07-02T08:28:07.1517677-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\PingContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\PingContent\obj\Xbox 360\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Dez\Work\Gamemaking\Visual Studio Projects\Ping\Ping\Ping\bin\Xbox 360\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-06-17T06:49:39.4105282-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
